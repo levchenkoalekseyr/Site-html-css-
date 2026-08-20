@@ -1,15 +1,21 @@
 # Site
 
-Создал простой сайт
+Создал простой сайт с несколькими разделами
+
 Главная страница
 
-<img width="487" height="678" alt="image" src="https://github.com/user-attachments/assets/1a7e9210-49d0-42ed-bdb5-ba2003b763bb" />
+<p align="center">
+  <img width="487" height="678" alt="image" src="https://github.com/user-attachments/assets/1a7e9210-49d0-42ed-bdb5-ba2003b763bb" />
+</p>
 
 Регистрация
 
-<img width="476" height="838" alt="image" src="https://github.com/user-attachments/assets/754d1797-12d1-47df-910b-6e76db21f139" />
+<p align="center">
+  <img width="476" height="838" alt="image" src="https://github.com/user-attachments/assets/754d1797-12d1-47df-910b-6e76db21f139" />
+</p>
 
 Контакты
 
-<img width="1492" height="910" alt="image" src="https://github.com/user-attachments/assets/a17ad2e7-3fae-472c-8f17-7ad6cee324aa" />
-
+<p align="center">
+  <img width="1492" height="910" alt="image" src="https://github.com/user-attachments/assets/a17ad2e7-3fae-472c-8f17-7ad6cee324aa" />
+</p>
